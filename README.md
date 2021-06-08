@@ -16,3 +16,8 @@
       load data /plot gender information
 
   
+    
+## [2021 -06 -09]
+
+    - airbnb dateframe
+      load data /plot gender information
