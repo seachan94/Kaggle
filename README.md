@@ -9,5 +9,10 @@
 ## [2021 - 06 - 05]
 
     - Predict Player Value using regression
+    
+## [2021 -06 -08]
+
+    - airbnb start
+      load data /plot gender information
 
   
