@@ -21,3 +21,8 @@
 
     - airbnb dateframe
       load data /plot gender information
+
+## [2021 -06 -14]
+
+    - Recommendation 
+      - content based
