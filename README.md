@@ -31,4 +31,5 @@
     
     -Recoomendation
        - item_based Coallaboratve
+       - recommendation latent vector using SVD
   
