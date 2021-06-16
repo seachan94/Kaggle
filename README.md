@@ -31,5 +31,5 @@
     
     -Recoomendation
        - item_based Coallaboratve
-       - recommendation latent vector using SVD
-  
+       - recommendation latent factor using MF & SVD -> dont remind user history
+       - recommendation latent factor using MF & SVD including user history -
